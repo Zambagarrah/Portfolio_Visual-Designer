@@ -31,7 +31,7 @@ Customizability: Easy to customize and expand to fit various needs and preferenc
 📦 Installation
 Clone the Repository:
 
-```bash
+```
 git clone https://github.com/Zambagarrah/Portfolio_Visual-Designer.git
 cd Portfolio_Visual-Designer
 ```
@@ -39,7 +39,7 @@ Install Dependencies:
 
 For the frontend:
 
-```bash
+```
 npm install
 ```
 Start the Development Server:
@@ -47,7 +47,8 @@ Start the Development Server:
 For the frontend:
 
 
-```npm start
+```
+npm start
 ```
 #Enjoy:
 
