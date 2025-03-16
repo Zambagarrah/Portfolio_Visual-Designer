@@ -13,9 +13,7 @@ Project Showcase: Dedicated sections to display projects with detailed descripti
 Contact Form: Easy-to-use contact form for visitors to get in touch.
 
 🛠️ Technologies Used
-Frontend: HTML, CSS, JavaScript, React
-
-Backend: Django (if applicable)
+Frontend: HTML, CSS, JavaScript, ReactJS
 
 Styling: Bootstrap, Custom CSS
 
