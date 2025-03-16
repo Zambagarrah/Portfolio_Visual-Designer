@@ -61,7 +61,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📧 Contact
 For any inquiries, feel free to reach out:
 
-Name: Zambagarrah
+Name: Zablon Ombiri 
 
 Email: zablonombiri001@gmail.com
 
